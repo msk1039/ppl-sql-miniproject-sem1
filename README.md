@@ -3,8 +3,8 @@
 
 
 # Previous Process
-# 1. Database creation
-# 2. Table Creation
+ 1. Database creation
+ 2. Table Creation
 
 ################# DATABASE CREATION ################
 try:
